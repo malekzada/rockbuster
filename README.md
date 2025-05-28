@@ -133,7 +133,5 @@ GROUP BY rental_rate;</code></pre>
 FROM film;</code></pre>
 
 ## Sources And Links:
-##### Dataset
-Zip file: http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
-##### Tableau Dashboard
-https://public.tableau.com/app/profile/faisal.malekzada/viz/RockbusterFilms/RockbusterCustomerDemographics
+[Rockbuster Data Zip file](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)  
+[Tableau Dashboard](https://public.tableau.com/app/profile/faisal.malekzada/viz/RockbusterFilms/RockbusterCustomerDemographics)
