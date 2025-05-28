@@ -12,7 +12,6 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 
 #### Data Set:
 This Analysis is based on Rockbuster’s film inventory, customers, and payments data.  
-Dataset Zip file: http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
 
 #### Analysis Criteria:
 ● A combination of SQL queries were run to gather combine the data.  
@@ -43,3 +42,10 @@ Dataset Zip file: http://www.postgresqltutorial.com/wp-content/uploads/2019/05/d
 ![Screenshot 2025-05-06 170315](https://github.com/user-attachments/assets/6cc833a7-0c93-411e-8414-f096a5749e0c)  
 ● _Replacement cost of films are on the higher side having majority of the films above $20._  
 ● _There are only a few film that are as cheap or less than $10._
+
+
+## Sources And Links:
+##### Dataset
+Zip file: http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
+##### Tableau Dashboard
+https://public.tableau.com/app/profile/faisal.malekzada/viz/RockbusterFilms/RockbusterCustomerDemographics
