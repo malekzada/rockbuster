@@ -36,22 +36,10 @@ Dataset Zip file: http://www.postgresqltutorial.com/wp-content/uploads/2019/05/d
 ![image](https://github.com/user-attachments/assets/b9cd408e-cf31-4509-b82e-a2028e18005f)  
 ● _The least popular movies brought between $6 to $7 per film._
 
-##### Best and Worst Performing Films
+##### Rental Rates and Replacement Costs
 ![Screenshot 2025-05-06 170331](https://github.com/user-attachments/assets/a7283e07-4018-41f8-b057-678df826eeda)  
 ● _Majority of the films Rockbuster provides are affordable._  
 ● _The number of films that are expensive are the second highest._
 ![Screenshot 2025-05-06 170315](https://github.com/user-attachments/assets/6cc833a7-0c93-411e-8414-f096a5749e0c)  
 ● _Replacement cost of films are on the higher side having majority of the films above $20._  
 ● _There are only a few film that are as cheap or less than $10._
-
-
-
-
-
-
-
-
-
-
-
-
