@@ -3,20 +3,27 @@
 ## Executive Summary:
 Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive. To guide this strategic shift, a comprehensive data analysis was conducted on customer demographics, revenue sources, and film performance.
 
-#### Key Questions And Objectives:
+#### Key Questions:
 ● Which movies contributed the most/least to revenue gain?  
 ● What was the average rental duration for all videos?  
 ● Which countries are Rockbuster customers based in?  
 ● Where are customers with a high lifetime value based?  
 ● Do sales figures vary between geographic regions?
 
+#### Objectives:
+Help with the launch strategy for the new online video service.
+
 #### Data Set:
 This Analysis is based on Rockbuster’s film inventory, customers, and payments data.  
 
-#### Analysis Criteria:
-● A combination of SQL queries were run to gather combine the data.  
-● Tableau and Excel were used to visualize the data.  
-● A data dictionary for technical people.  
+#### Analysis and Methods Used:
+● Data Cleaning.  
+● Writing moderately complex SQL queries to answer business questions:  
+     Creating CTEs, table joins,  and subqueries.  
+● Descriptive Analysis using SQL.  
+● ERD Creation.  
+● Data Dictionary Creation.  
+● Creating visualizations in Excel and Tableau.
 
 ## Analysis
 ##### Where are Top customers based?
