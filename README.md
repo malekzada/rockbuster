@@ -1,7 +1,7 @@
 # Rockbuster: Rockbuster Stealth Data Analysis Project.
 
-## About Rockbuster:
-Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive.
+## Executive Summary:
+Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive. To guide this strategic shift, a comprehensive data analysis was conducted on customer demographics, revenue sources, and film performance.
 
 #### Key Questions And Objectives:
 ● Which movies contributed the most/least to revenue gain?  
@@ -131,6 +131,15 @@ GROUP BY rental_rate;</code></pre>
     COUNT(CASE WHEN replacement_cost BETWEEN 10 AND 20 THEN 1 END) AS replacement_cost10to20,
     COUNT(CASE WHEN replacement_cost > 20 THEN 1 END) AS replacement_cost_above20
 FROM film;</code></pre>
+
+## Recommendations:
+● Focus marketing effort on Top 5-10 countries as they bring the most revenue Majority of the Top countries are rich countries.  
+● To get more customers, decrease the renting price and replacement based on the country. eg. discord’s Nitro subscription.  
+● Make the replacement cost cheaper and in turn increase the rental price to increase customer loyalty.  
+
+## Next Steps:
+● Develop targeted marketing campaigns. for Top customers and Top regions with the marketing team.  
+● Explore partnerships and licensing deals in highest traffic locations.  
 
 ## Sources And Links:
 [Rockbuster Data Zip file](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)  
